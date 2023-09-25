@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\bin\Debug\Uygulama Kayıt.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\bin\Debug\Uygulama Kayıt.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\bin\Debug\Uygulama Kayıt.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama Kayıt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama Kayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama_Kayıt.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama_Kayıt.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama Kayıt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama Kayıt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama Kayıt.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Uygulama Kayıt\Uygulama Kayıt\obj\Debug\Uygulama Kayıt.pdb
